@@ -19,7 +19,8 @@
     },
     
     "rawColors": {
-        "PRIMARY_460": "#ff2248"
+        "PRIMARY_460": "#ff2248",
+        "PRIMARY_230": "#ff2248"
 
 },
     "spec": 2
