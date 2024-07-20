@@ -14,14 +14,20 @@
         "HEADER_SECONDARY": [
             "#ffffff"
         ]
+
+    },
+     "rawColors": {
+        "PRIMARY_500": "#ff2248",
+        "PRIMARY_100": "#EFDFD7",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#9E8376",
+        "PRIMARY_360": "#9E8376"
+        "GREEN_600": "#EFDFD7",
+        "RED_400": "#9E8376",
+        "WHITE_500": "#EFDFD7",
+        "GREEN_360": "#503E38"
         
     
     },
-    
-    "rawColors": {
-        "PRIMARY_460": "#ff2248",
-        "PRIMARY_230": "#ff2248"
-
-},
     "spec": 2
 }
