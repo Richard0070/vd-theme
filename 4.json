@@ -1,0 +1,26 @@
+{
+    "name": "Valorant",
+    "description": "Valorant theme for Discord",
+    "authors": [
+        {
+            "name": "Rizen",
+            "id": "918862839316373554"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ffffff"
+        ]
+        
+    
+    },
+    
+    "rawColors": {
+        "PRIMARY_460": "#ff2248"
+
+},
+    "spec": 2
+}
