@@ -13,6 +13,9 @@
         ],
         "HEADER_SECONDARY": [
             "#ffffff"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#ff8196"
         ]
 
     },
